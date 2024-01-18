@@ -46,16 +46,14 @@ source install/setup.bash
       a. launcher.py (Ventana única):
   
       ```bash
-      source install/setup.bash
       ros2 launch interaccion launcher.py
-      
       ```
+      
       b. launcher_all.py (Ventanas separadas)
    
       **Nota:** Se ha utilizado la aplicación Konsole en el launcher. Asegúrate de tenerla instalada en tu sistema.
 
       ```bash
-      source install/setup.bash
       ros2 launch interaccion launcher_all.py
       ```
 
