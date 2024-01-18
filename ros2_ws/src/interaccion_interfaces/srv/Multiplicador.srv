@@ -1,0 +1,5 @@
+# Multiplicador.srv
+
+int64 entrada # Parámetro que proporciona el cliente
+---
+int64 resultado # Parámetro que proporciona el servicio
